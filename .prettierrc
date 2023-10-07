@@ -1,0 +1,14 @@
+{
+    "parser": "espree",
+    "printWidth": 100,
+    "trailingComma": "all",
+    "useTabs": false,
+    "tabWidth": 4,
+    "semi": true,
+    "arrowParens": "avoid",
+    "singleQuote": true,
+    "jsxSingleQuote": true,
+    "bracketSameLine": true,
+    "singleAttributePerLine": true,
+    "bracketSpacing": false
+}

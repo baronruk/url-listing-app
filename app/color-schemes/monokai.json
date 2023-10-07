@@ -1,0 +1,30 @@
+[
+  {
+    "name": "--body-background",
+    "value": "#2e2e2e"
+  },
+  {
+    "name": "--font-color",
+    "value": "#797979"
+  },
+  {
+    "name": "--h1-color",
+    "value": "#e5b567"
+  },
+  {
+    "name": "--h2-color",
+    "value": "#b05279"
+  },
+  {
+    "name": "--border-color",
+    "value": "#d6d6d6"
+  },
+  {
+    "name": "--button",
+    "value": "#b4d273"
+  },
+  {
+    "name": "--button-hover",
+    "value": "#e87d3e"
+  }
+]
